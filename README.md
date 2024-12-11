@@ -72,7 +72,7 @@ In this case study, I explored how IBM’s Watson for Oncology uses AI to assist
 
 The **Smart AR Helmet** project integrates augmented reality (AR) and AI to enhance astronaut safety and efficiency during extravehicular activities (EVAs). The helmet features real-time health monitoring, task assistance, navigation guidance, and emergency alerts.
 
-- **Project Overview**: [Link to full project description](./projects/smart_ar_helmet.md)
+- **Project Overview**: [Link to full project description](./projects/smart-ar-helmet.md)
 - **Key Features**:
     - Real-time health monitoring (heart rate, oxygen levels, body temperature, etc.)
     - Task guidance for complex repairs and maintenance
