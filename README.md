@@ -49,7 +49,7 @@ In this case study, I explored the player attributes that made FIFA 21 players m
 - **Outcome:**
     - Found that player position, rating, and age were the most critical factors for market success.
 
-[Read More on Case Study 2](./case-studies/case_study_2.md)
+[Read More on Case Study 2](./case-studies/fifa-21.md)
 
 ---
 
