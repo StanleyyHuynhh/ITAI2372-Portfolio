@@ -53,6 +53,21 @@ In this case study, I explored the player attributes that made FIFA 21 players m
 
 ---
 
+### Case Study 3: IBM Oncology - Leveraging AI for Cancer Treatment
+
+In this case study, I explored how IBM’s Watson for Oncology uses AI to assist in cancer diagnosis and treatment decisions. By analyzing medical data and leveraging machine learning algorithms, Watson for Oncology aims to provide faster, more accurate treatment recommendations. The case study also explores the challenges faced by healthcare providers in adopting AI-based solutions in oncology.
+
+- **Key Objectives:**
+    - Explore the application of AI in oncology and cancer treatment.
+    - Assess the effectiveness of IBM Watson in diagnosing and recommending treatment plans.
+    - Identify challenges and opportunities in integrating AI into the healthcare system.
+- **Outcome:**
+    - Concluded that while Watson for Oncology shows promise in improving treatment outcomes, challenges such as data accuracy, regulatory compliance, and healthcare provider trust need to be addressed.
+
+[Read More on Case Study 3](./case_studies/case_study_3.md)
+
+---
+
 ## Smart AR Helmet
 
 The **Smart AR Helmet** project integrates augmented reality (AR) and AI to enhance astronaut safety and efficiency during extravehicular activities (EVAs). The helmet features real-time health monitoring, task assistance, navigation guidance, and emergency alerts.
