@@ -34,7 +34,7 @@ This case study examines the factors that impact student grades and overall educ
 - **Outcome:**
     - Revealed that socioeconomic status and study habits had the greatest impact on academic performance.
 
-[Read More on Case Study 1](./case-studies/higher-education)
+[Read More on Case Study 1](./case-studies/higher-education.md)
 
 ---
 
@@ -49,7 +49,7 @@ In this case study, I explored the player attributes that made FIFA 21 players m
 - **Outcome:**
     - Found that player position, rating, and age were the most critical factors for market success.
 
-[Read More on Case Study 2](./case_studies/case_study_2.md)
+[Read More on Case Study 2](./case-studies/case_study_2.md)
 
 ---
 
@@ -64,7 +64,7 @@ In this case study, I explored how IBM’s Watson for Oncology uses AI to assist
 - **Outcome:**
     - Concluded that while Watson for Oncology shows promise in improving treatment outcomes, challenges such as data accuracy, regulatory compliance, and healthcare provider trust need to be addressed.
 
-[Read More on Case Study 3](./case_studies/case_study_3.md)
+[Read More on Case Study 3](./case-studies/case_study_3.md)
 
 ---
 
