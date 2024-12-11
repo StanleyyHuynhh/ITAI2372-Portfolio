@@ -15,9 +15,9 @@ Welcome to my portfolio! This repository showcases my work, including the docume
 Here you will find the documents related to various projects I've worked on during my time in the MSLE (Machine Learning and Space Exploration) Labs. These documents provide insights into the research, methodologies, and outcomes from my work.
 
 - **[Lab Document 2: Image Analyzation](./msle-lab-documents/image-analyzation.md)**
-- **[Lab Document 3: Data Analysis Techniques](./msle-lab-documents/project_3.md)**
-- **[Lab Document 4: Predictive Modeling](./msle-lab-documents/project_4.md)**
-- **[Lab Document 5: Simulation of Space Technologies](./msle-lab-documents/project_5.md)**
+- **[Lab Document 3: Text Analyzation](./msle-lab-documents/text-analyzation.md)**
+- **[Lab Document 4: Extracting Document Data](msle-lab-documents/extracting-document-data.md)**
+- **[Lab Document 5: Exploring Copilot](./msle-lab-documents/exploring-copilot.md)**
 
 ---
 
