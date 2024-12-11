@@ -34,7 +34,7 @@ This case study examines the factors that impact student grades and overall educ
 - **Outcome:**
     - Revealed that socioeconomic status and study habits had the greatest impact on academic performance.
 
-[Read More on Case Study 1](./case_studies/case_study_1.md)
+[Read More on Case Study 1](./Higher Education Case Study.md)
 
 ---
 
