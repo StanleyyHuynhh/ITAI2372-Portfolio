@@ -64,7 +64,7 @@ In this case study, I explored how IBM’s Watson for Oncology uses AI to assist
 - **Outcome:**
     - Concluded that while Watson for Oncology shows promise in improving treatment outcomes, challenges such as data accuracy, regulatory compliance, and healthcare provider trust need to be addressed.
 
-[Read More on Case Study 3](./case-studies/case_study_3.md)
+[Read More on Case Study 3](./case-studies/ibm-oncology.md)
 
 ---
 
