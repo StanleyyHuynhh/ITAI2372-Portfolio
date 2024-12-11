@@ -86,8 +86,8 @@ The **Smart AR Helmet** project integrates augmented reality (AR) and AI to enha
 Feel free to reach out if you have any questions or would like to learn more about my work:
 
 - Email: [stanleyyhuynhh@gmail.com](mailto:stanleyyhuynhh@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stanley-huynh-o7/)
-- GitHub: [GitHub](https://github.com/StanleyyHuynhh)
+- LinkedIn: [https://www.linkedin.com/in/stanley-huynh-o7/](https://www.linkedin.com/in/stanley-huynh-o7/)
+- GitHub: [https://github.com/StanleyyHuynhh](https://github.com/StanleyyHuynhh)
 
 ---
 
