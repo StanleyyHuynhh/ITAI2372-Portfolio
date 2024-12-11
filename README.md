@@ -16,7 +16,7 @@ Here you will find the documents related to various projects I've worked on duri
 
 - **[Lab Document 2: Image Analyzation](./msle-lab-documents/image-analyzation.md)**
 - **[Lab Document 3: Text Analyzation](./msle-lab-documents/text-analyzation.md)**
-- **[Lab Document 4: Extracting Document Data](msle-lab-documents/extracting-document-data.md)**
+- **[Lab Document 4: Extracting Document Data](./msle-lab-documents/extracting-document-data.md)**
 - **[Lab Document 5: Exploring Copilot](./msle-lab-documents/exploring-copilot.md)**
 
 ---
